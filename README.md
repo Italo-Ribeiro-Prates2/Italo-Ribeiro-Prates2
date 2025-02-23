@@ -1,7 +1,7 @@
 ## Opa, eu sou o Italo Ribeiro Prates, estudante de ciência da computação
 
 - 👨‍💻 Cursando na Universidade São Judas Tadeu
-- 📖 Estudando Java 
+- 📖 Estudando Java POO
 
 <div align="center">
   <a href="https://github.com/Italo-Ribeiro-Prates2">
