@@ -1,7 +1,8 @@
-## Opa, eu sou o Italo Ribeiro Prates, estudante de ciência da computação
+# 👋 Olá! Bem vindo ao meu perfil do Github.
+## Meu nome é Italo Ribeiro
 
-- 👨‍💻 Cursando na Universidade São Judas Tadeu
-- 📖 Estudando Java POO
+- 👨‍💻 Cursando ciência da computação
+- 📖 Estudando Java e seus Framework
 
 <div>
 <a href="https://github.com/seu-usuário-aqui">
@@ -14,6 +15,7 @@
   ## Ferramentas e Tecnologias
 
   <img align="center" alt="Dan-Python" height="30" width="40" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="30"/> 
+  <img align="center" alt="Dan-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
   <img align="center" alt="Dan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Dan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
