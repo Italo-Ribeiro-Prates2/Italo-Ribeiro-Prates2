@@ -43,7 +43,7 @@
       <a href="https://www.rabbitmq.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="50" title="RabbitMQ" /></a>
       <a href="https://kafka.apache.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="50" title="Apache Kafka" /></a>
       <a href="https://hibernate.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" width="50" title="Hibernate" /></a>  
-      <a href="https://aws.amazon.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50" title="AWS" /></a>
+      
     </div>  
   </div>  
 </details>
