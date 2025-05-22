@@ -44,7 +44,7 @@
       <a href="https://kafka.apache.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="50" title="Apache Kafka" /></a>
       <a href="https://hibernate.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" width="50" title="Hibernate" /></a>  
       
-    </div>  
+     
   </div>  
 </details>
 
