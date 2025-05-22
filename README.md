@@ -55,7 +55,7 @@
 ## 📡 Contato
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/[SEU-LINKEDIN-AQUI]" target="_blank">
+  <a href="https://www.linkedin.com/in/italoribeiroprates/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=008080" />
   </a>
   <a href="mailto:italoribeiroprates@gmail.com" target="_blank">
