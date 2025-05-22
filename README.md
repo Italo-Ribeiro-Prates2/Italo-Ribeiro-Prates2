@@ -63,9 +63,7 @@
   <a href="mailto:italoribeiroprates@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=004466" />
   </a>
-  <a href="https://discordapp.com/users/[SEU-ID-DISCORD]" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=004466" />
-  </a>
+  
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=004466&height=120&section=footer"/>
