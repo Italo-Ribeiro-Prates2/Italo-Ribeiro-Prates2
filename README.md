@@ -6,6 +6,12 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=008080&center=true&vCenter=true&width=1000&lines=Back-End+Java+Dev+%7C+Apaixonado+por+Tecnologia;Olá%2C+sou+Italo+Ribeiro+Prates;Sempre+em+busca+de+evolução;Transformando+café+em+soluções+tecnológicas!" />
+  </a>
+</p>
+
 ## 🌌 Sobre Mim
 
 - 🎓 Tenho 19 anos e moro em São Paulo 🇧🇷
