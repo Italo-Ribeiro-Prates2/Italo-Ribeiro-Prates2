@@ -51,7 +51,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Italo-Ribeiro-Prates2&hide_title=true&hide=issues&show_icons=true&rank_icon=github&count_private=true&hide_border=false&border_color=004466&title_color=F4F4F6&icon_color=F4F4F6&text_color=008080&bg_color=010E0E" alt="Italo Ribeiro Prates github stats" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Italo-Ribeiro-Prates2&hide_title=true&hide=issues&show_icons=true&rank_icon=github&count_private=true&hide_border=false&border_color=004466&title_color=004466&icon_color=004466&text_color=008080&bg_color=010E0E" alt="Italo Ribeiro Prates github stats" />
 </div>
 
 ## 📡 Contato
