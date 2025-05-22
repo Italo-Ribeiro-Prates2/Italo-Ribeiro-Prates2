@@ -51,21 +51,21 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Italo-Ribeiro-Prates2&hide_title=true&hide=issues&show_icons=true&rank_icon=github&count_private=true&hide_border=false&border_color=008080&title_color=F4F4F6&icon_color=F4F4F6&text_color=008080&bg_color=010E0E" alt="Italo Ribeiro Prates github stats" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Italo-Ribeiro-Prates2&hide_title=true&hide=issues&show_icons=true&rank_icon=github&count_private=true&hide_border=false&border_color=004466&title_color=F4F4F6&icon_color=F4F4F6&text_color=008080&bg_color=010E0E" alt="Italo Ribeiro Prates github stats" />
 </div>
 
 ## 📡 Contato
 
 <div align="left">
   <a href="https://www.linkedin.com/in/italoribeiroprates/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=008080" />
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=004466" />
   </a>
   <a href="mailto:italoribeiroprates@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=008080" />
+    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=004466" />
   </a>
   <a href="https://discordapp.com/users/[SEU-ID-DISCORD]" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=008080" />
+    <img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=004466" />
   </a>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=008080&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=004466&height=120&section=footer"/>
