@@ -1,17 +1,22 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=004466&height=120&section=header"/>
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=004466&center=true&vCenter=true&width=1000&lines=Cloud+Security+%7C+IAM+Enthusiast;Azure+%2F+Entra+ID+%2F+Zero+Trust;IT+Infrastructure+%26+Cybersecurity+Intern;Always+Striving+for+Growth" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=004466&center=true&vCenter=true&width=1000&lines=Cloud+Security+%7C;Azure+%2F+Entra+ID+%2F+Zero+Trust;IT+Infrastructure+%26+Cybersecurity+Intern;Always+Striving+for+Growth" />
   </a>
 </p>
 🌌 Sobre Mim
 
 
-🎓 18 anos, Cursando Ciência da Computação na USJT — São Paulo 🇧🇷
+🎓 20 anos, Cursando Ciência da Computação na USJT — São Paulo 🇧🇷
+
 🛡️ IT Infrastructure & Cybersecurity Intern @ Messer Gases Brasil
+
 ☁️ Foco em Cloud Security Engineering no ecossistema Microsoft/Azure, com ênfase em IAM
+
 🔐 Atuo no dia a dia com Microsoft Intune, Entra ID, Azure, Microsoft Sentinel, Defender for Cloud, SD-WAN e ServiceNow
+
 🧪 Construo laboratórios práticos de Zero Trust e automação de identidade com Terraform
+
 💡 Interessado em automação de segurança, IAM e arquiteturas Zero Trust
 
 
@@ -54,19 +59,6 @@ Laboratório completo de Zero Trust construído do zero: Security Groups, Custom
 
 
 </details>
-📊 GitHub Stats
-
-<div align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Italo-Ribeiro-Prates2&hide_title=true&hide=issues&show_icons=true&rank_icon=github&count_private=true&hide_border=false&border_color=004466&title_color=F4F4F6&icon_color=F4F4F6&text_color=004466&bg_color=010E0E" alt="Italo Ribeiro Prates github stats" />
-</div>
-📡 Contato
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/italoribeiroprates/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=004466" />
-  </a>
-  <a href="mailto:italoribeiroprates@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=004466" />
-  </a>
-</div>
+## 📊 GitHub Stats <div align="center">  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Italo-Ribeiro-Prates2&hide_title=true&hide=issues&show_icons=true&rank_icon=github&count_private=true&hide_border=false&border_color=004466&title_color=F4F4F6&icon_color=F4F4F6&text_color=004466&bg_color=010E0E" alt="Italo Ribeiro Prates github stats" /></div>
+## 📡 Contato <div align="left">  <a href="https://www.linkedin.com/in/italoribeiroprates/" target="_blank">    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=004466" />  </a>  <a href="mailto:italoribeiroprates@gmail.com" target="_blank">    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=004466" />  </a>  </div>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=004466&height=120&section=footer"/>
